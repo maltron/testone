@@ -1,0 +1,2 @@
+- name: Displaying Message One
+  debug: msg="This is my message {{ message1 }}"
